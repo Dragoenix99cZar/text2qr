@@ -1,0 +1,11 @@
+# ninja log v7
+11	78	8040900373971322	CMakeFiles/qrencode.dir/bitstream.c.obj	acab4bdd967a91cd
+18	85	8040900374054416	CMakeFiles/qrencode.dir/rsecc.c.obj	744a843f57501265
+21	86	8040900374089552	CMakeFiles/qrencode.dir/split.c.obj	575d989c0b533270
+15	86	8040900374020851	CMakeFiles/qrencode.dir/qrspec.c.obj	6061c0da79bc378b
+27	94	8040900374149694	CMakeFiles/qrencode.dir/mqrspec.c.obj	f25e19a1bc142d62
+30	94	8040900374174738	CMakeFiles/qrencode.dir/mmask.c.obj	c194b964429fc64a
+24	95	8040900374119555	CMakeFiles/qrencode.dir/mask.c.obj	ec16154bafeed478
+2	95	8040900373891015	CMakeFiles/qrencode.dir/qrencode.c.obj	60f0b0e253b4a4b7
+6	109	8040900373931207	CMakeFiles/qrencode.dir/qrinput.c.obj	6dc62c253ef1b18f
+109	194	8040900374958390	libqrencode.a	a57068af281baa47
